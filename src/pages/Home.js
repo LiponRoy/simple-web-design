@@ -1,5 +1,7 @@
 import React, { Fragment } from 'react';
 import Navbar from '../component/Navbar';
+import Carasol from '../component/Carasol';
+import Signup from '../component/Signup';
 import { BsBuilding, BsGearFill } from 'react-icons/bs';
 
 const Home = () => {
@@ -10,7 +12,7 @@ const Home = () => {
 				<Navbar></Navbar>
 			</section>
 			{/*End nav ber */}
-
+			<Carasol></Carasol>
 			{/* first team section */}
 			<section>
 				<div className='firstTeamSection container pt-3'>
@@ -222,6 +224,10 @@ const Home = () => {
 					</div>
 				</div>
 			</section>
+
+			{/* signup option */}
+			<Signup></Signup>
+
 			{/* practice */}
 
 			{/* End team section */}
