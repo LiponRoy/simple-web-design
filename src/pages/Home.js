@@ -26,8 +26,8 @@ const Home = () => {
 								<div className='Alltitle'>
 									<h4>engineer</h4>
 									<p>
-										Lorem ipsum dolor sit amet consectetur
-										adipisicing elit. Laboriosam, ullam!
+										Lorem ipsum dolor sit amet consectetur adipisicing elit.
+										Laboriosam, ullam!
 									</p>
 									<a className='btn btn-primary' href='#'>
 										MORE INFO
@@ -45,8 +45,8 @@ const Home = () => {
 								<div className='Alltitle'>
 									<h4>engineer</h4>
 									<p>
-										Lorem ipsum dolor sit amet consectetur
-										adipisicing elit. Laboriosam, ullam!
+										Lorem ipsum dolor sit amet consectetur adipisicing elit.
+										Laboriosam, ullam!
 									</p>
 									<a className='btn btn-primary' href='#'>
 										MORE INFO
@@ -64,8 +64,8 @@ const Home = () => {
 								<div className='Alltitle'>
 									<h4>engineer</h4>
 									<p>
-										Lorem ipsum dolor sit amet consectetur
-										adipisicing elit. Laboriosam, ullam!
+										Lorem ipsum dolor sit amet consectetur adipisicing elit.
+										Laboriosam, ullam!
 									</p>
 									<a className='btn btn-primary' href='#'>
 										MORE INFO
@@ -83,8 +83,8 @@ const Home = () => {
 								<div className='Alltitle'>
 									<h4>engineer</h4>
 									<p>
-										Lorem ipsum dolor sit amet consectetur
-										adipisicing elit. Laboriosam, ullam!
+										Lorem ipsum dolor sit amet consectetur adipisicing elit.
+										Laboriosam, ullam!
 									</p>
 									<a className='btn btn-primary' href='#'>
 										MORE INFO
@@ -102,8 +102,8 @@ const Home = () => {
 								<div className='Alltitle'>
 									<h4>engineer</h4>
 									<p>
-										Lorem ipsum dolor sit amet consectetur
-										adipisicing elit. Laboriosam, ullam!
+										Lorem ipsum dolor sit amet consectetur adipisicing elit.
+										Laboriosam, ullam!
 									</p>
 									<a className='btn btn-primary' href='#'>
 										MORE INFO
@@ -121,8 +121,8 @@ const Home = () => {
 								<div className='Alltitle'>
 									<h4>engineer</h4>
 									<p>
-										Lorem ipsum dolor sit amet consectetur
-										adipisicing elit. Laboriosam, ullam!
+										Lorem ipsum dolor sit amet consectetur adipisicing elit.
+										Laboriosam, ullam!
 									</p>
 									<a className='btn btn-primary' href='#'>
 										MORE INFO
@@ -162,8 +162,8 @@ const Home = () => {
 							<div className='subtitle'>
 								<h4>engineer</h4>
 								<p>
-									Lorem ipsum dolor sit amet consectetur
-									adipisicing elit. Laboriosam, ullam!
+									Lorem ipsum dolor sit amet consectetur adipisicing elit.
+									Laboriosam, ullam!
 								</p>
 							</div>
 						</div>
@@ -188,8 +188,8 @@ const Home = () => {
 							<div className='subtitle'>
 								<h4>engineer</h4>
 								<p>
-									Lorem ipsum dolor sit amet consectetur
-									adipisicing elit. Laboriosam, ullam!
+									Lorem ipsum dolor sit amet consectetur adipisicing elit.
+									Laboriosam, ullam!
 								</p>
 							</div>
 						</div>
@@ -214,8 +214,8 @@ const Home = () => {
 							<div className='subtitle'>
 								<h4>engineer</h4>
 								<p>
-									Lorem ipsum dolor sit amet consectetur
-									adipisicing elit. Laboriosam, ullam!
+									Lorem ipsum dolor sit amet consectetur adipisicing elit.
+									Laboriosam, ullam!
 								</p>
 							</div>
 						</div>
@@ -223,19 +223,6 @@ const Home = () => {
 				</div>
 			</section>
 			{/* practice */}
-			<section className='my-5'>
-				<div className='redboxMeUs'>
-					<a href=''>
-						<i class='fas fa-angle-left'></i>
-					</a>
-					<a href=''>
-						<i class='fas fa-angle-left'></i>
-					</a>
-					<a href=''>
-						<i class='fas fa-angle-left'></i>
-					</a>
-				</div>
-			</section>
 
 			{/* End team section */}
 		</Fragment>
